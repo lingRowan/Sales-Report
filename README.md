@@ -10,8 +10,6 @@ This project analyzes sales data from a retail dataset to derive insights into p
 - [Key Metrics](#key-metrics)
 - [Visualizations](#visualizations)
 - [Findings & Recommendations](#findings--recommendations)
-- [Getting Started](#getting-started)
-- [License](#license)
 
 ## Introduction
 The purpose of this report is to explore sales transactions and identify trends in customer behavior and product preferences. This analysis will enable the retail company to make informed decisions regarding inventory management, marketing strategies, and customer engagement.
